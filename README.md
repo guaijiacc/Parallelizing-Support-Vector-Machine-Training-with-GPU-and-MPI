@@ -42,8 +42,7 @@ Key result highlights (see report for details):
 ## Repository Structure
 
     .
-    ├── report/
-    │   └── CSE587_final_project_bbai.pdf   # Final project report
+    ├── CSE587_final_project_report_bbai(encrypted).pdf   # Final project report
     │
     ├── papers/                             # literature review
     │
