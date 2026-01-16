@@ -14,7 +14,7 @@ substantial speedups while preserving identical model accuracy and support-vecto
 
 ## Contents
 
-- Report: `report/CSE587_final_project_bbai.pdf`
+- Report: `CSE587_final_project_report_bbai(encrypted).pdf`
 - Serial baseline SMO: `code/main3.cpp`
 - MPI Cascade SVM (classical + modified two-layer): `code/mpi_svm_main3.cpp`, `code/mpi_svm_main2.cpp`
 - CUDA SMO: `code/gpu_svm_main3.cu`, `code/gpu_svm_main4.cu`
